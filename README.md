@@ -7,8 +7,7 @@ Introduction App
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
+<img src="https://github.com/melisaechao/Codepath-iOS-102-Prework/blob/main/iOS%20102%20prework.gif?raw=true" width=200><br> 
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
